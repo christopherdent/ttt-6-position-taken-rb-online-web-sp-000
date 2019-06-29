@@ -10,7 +10,3 @@ def position_taken?(board, index)
   
   elsif board[0] == " " || ""
     false 
-
-
-
-  
